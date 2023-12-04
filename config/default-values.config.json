@@ -1,0 +1,89 @@
+{
+  "operators": [
+    {
+      "label": "less than",
+      "value": "<",
+      "id": "527c0e7d-b922-44da-bd6f-c4693eb6e6ec"
+    },
+    {
+      "label": "greater than",
+      "value": ">",
+      "id": "0167a768-9a57-40ed-b6d1-be960a0a2eaa"
+    },
+    {
+      "label": "equals",
+      "value": "==",
+      "id": "ccbcc25a-f8bb-4dd2-856d-5b5aa42092ab"
+    },
+    {
+      "label": "and",
+      "value": "AND",
+      "id": "39d67cdd-1b31-4b06-a7d0-c744c39178c0"
+    },
+    {
+      "label": "or",
+      "value": "OR",
+      "id": "58a36006-585d-40c2-82a6-26e871cc7958"
+    },
+    {
+      "label": "not",
+      "value": "NOT",
+      "id": "dc6bed4a-0d16-4391-819c-062d5fc224bf"
+    }
+  ],
+  "functions": [
+    {
+      "label": "Contains",
+      "value": "CONTAINS",
+      "id": "f7b6e88f-4859-48e5-a574-e4d89f8277a6"
+    },
+    {
+      "label": "Does not contain",
+      "value": "NOTCONTAINS",
+      "id": "1b6b34be-016c-4dc7-bf19-ad6591b2cc12"
+    },
+    {
+      "label": "Starts with",
+      "value": "STARTSWITH",
+      "id": "e452a0c0-08c0-4504-ac6c-56ce1c26e659"
+    },
+    {
+      "label": "Ends with",
+      "value": "ENDSWITH",
+      "id": "9ad5e53d-d4bf-4f19-a6ac-a0fb77291829"
+    },
+    {
+      "label": "In list",
+      "value": "IN",
+      "id": "016a2071-9932-4713-9abe-44ebe09d15dc"
+    },
+    {
+      "label": "Not in list",
+      "value": "NOTIN",
+      "id": "099b4406-f6aa-49c6-abc1-ec141ea57d99"
+    }
+  ],
+  "variables": [
+    {
+      "label": "Device Type",
+      "value": "deviceType",
+      "id": "5f3c09af-38cc-46d8-b506-8300017efe91"
+    },
+    {
+      "label": "Country",
+      "value": "country",
+      "id": "2f67797c-fd7f-4816-9a45-bc3e34a561f6"
+    },
+    {
+      "label": "Age",
+      "value": "age",
+      "id": "3c536584-6779-465b-a570-e22cac4ab25f"
+    },
+    {
+      "label": "Gender",
+      "value": "gender",
+      "id": "12f5e0ba-c38c-4f57-8f83-45a720d7952d"
+    }
+  ],
+  "values": []
+}
